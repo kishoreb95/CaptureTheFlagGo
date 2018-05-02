@@ -13,3 +13,6 @@ ACTFProjectGameMode::ACTFProjectGameMode()
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
 }
+
+
+
